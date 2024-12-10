@@ -1,14 +1,11 @@
-# BYUi Operating System Development (OSDevelopment)
+# Pounce Development
 
-A student-led effort to write and teach low level operating system code. This organization merely acts as a centralized resource for accessing the work of said students.
+A collection of (mostly low level) projects, FOSS centered, maintained by pounce developers.
 
 ## Note on trademark and copyright
 
- - Software contained within this organization's repositories does not belong to BYU - Idaho, and the copyright belongs to the authors of ever individual character of code.
- - We do not claim the trademarkof BYU or BYU - Idaho. No trademark associated with BYU - Idaho belongs in these repositories, only original material!
- - No software contained in these repositories belongs to BYU - Idaho. 
- - Most software within the repositories is to be attributed to the student organization, NOT to BYU - Idaho.
- - Software within the repositories is licensed under GNU GPL 3.0 unless explicity stated otherwise. These licenses are authorized by the authors of the original code. The authors choose to make their code public under the stipulations in those licenses, but they do NOT renounce their copyright privileges.
+ - For software contained within this organization, the copyright belongs to the authors of every individual character of code.
+ - Software within the repositories is licensed under GNU GPL 3.0 unless explicity stated otherwise. These licenses are granted by the authors of the original code. The authors choose to make their code public under the stipulations in those licenses, but they do NOT renounce their own copyright privileges.
 
 ## Final Note
 
